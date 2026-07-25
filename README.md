@@ -2,9 +2,9 @@
 
 # T I B E R I U &nbsp;&nbsp; T O C A
 
-**The orchestration layer for the agentic economy.**
+**Founder, [General Liquidity](https://generalliquidity.com)**
 
-Romanian solo founder · [General Liquidity](https://generalliquidity.com), an applied product and research lab
+An applied research lab for the machine economy
 
 [generalliquidity.com](https://generalliquidity.com) · [gordoncli.com](https://gordoncli.com) · [@tiberiu_toca](https://x.com/tiberiu_toca) · [LinkedIn](https://www.linkedin.com/in/tiberiu-aurelian-toca-80b88a200/)
 
@@ -12,7 +12,19 @@ Romanian solo founder · [General Liquidity](https://generalliquidity.com), an a
 
 <br />
 
-> I am interested in ambitious, slightly illegible ideas before they become consensus.
+> Taste is a form of engineering. It decides what you refuse to build.
+
+<br />
+
+## About
+
+I am a philosopher-builder, a soulful aristocrat, and a contrarian at heart: part technologist, part systems thinker, part obsessive founder. I read Computer Science with Innovation at the [University of Bristol](https://www.bristol.ac.uk/) (MEng), and I am Romanian, which accounts for most of the rest.
+
+Coming from Eastern Europe shaped my relationship with grit, resourcefulness, and perseverance, and left me comfortable operating outside obvious institutions. That is mostly an advantage. The work worth doing rarely has an established venue, and the people who find it early are usually the ones who did not wait to be invited.
+
+Since Bristol I have been a serial hacker house resident, building across Europe, the US, and MENA: [Augmentation Lab](https://augmentationlab.org/), [Arrayah City](https://arrayah.city/), [The Residency](https://www.livetheresidency.com/), and [Harvard St](https://harvardst.co/), alongside fellowships at the [Oxford Cambridge Fellowship](https://joinocf.com) and [Brightdale](https://www.brightdale.co/). Rooms full of people building things nobody asked for yet are the closest thing I have found to a native habitat.
+
+My curiosity is considerably wider than my company. I have written a path tracer and a photon mapper from scratch, a proof-assistant harness for mathematics, a text-to-CAD agent, pure functional models in Haskell, a neural game engine, and firmware for a robot that steers on whichever sensor reading has the lower variance. Away from the keyboard the interests that keep recurring are market microstructure, mechanism and market design, the philosophy and history of science, complex systems, and the long argument about how coordination happens between parties who cannot verify each other. The through-line is not a domain. It is a preference for building things whose correctness someone else can check, and a suspicion of anything asking to be taken on faith.
 
 <br />
 
@@ -32,7 +44,7 @@ Everything below is that thesis at a different altitude. General Liquidity is th
 
 ## General Liquidity
 
-An applied product and research lab for the machine economy. Capital markets are the first vertical, not the mission.
+An applied research lab for the machine economy. Capital markets are the first vertical, not the mission.
 
 | | | |
 |:--|:--|:--|
@@ -49,7 +61,7 @@ $ npm install -g @general-liquidity/gordon
 
 ## Verifier-first harnesses
 
-**The model proposes. The harness disposes.** The same architecture carried into other domains where a confident wrong answer is worse than no answer. Each one puts a machine-checkable verifier between the model and the artifact, so the thing you are handed has already survived a check that does not care how fluent it sounded.
+**The model proposes. The harness disposes.** The same architecture carried into other domains where a confident wrong answer is worse than no answer. Each one puts a machine-checkable verifier between the model and the artifact, so what you are handed has already survived a check that does not care how fluent it sounded.
 
 | | | |
 |:--|:--|:--|
@@ -59,19 +71,7 @@ $ npm install -g @general-liquidity/gordon
 
 <br />
 
-## About
-
-I am a philosopher-builder and contrarian at heart: part technologist, part systems thinker, part obsessive founder. I studied Computer Science with Innovation at the University of Bristol (MEng), then spent the last year or so moving through hacker houses, founder fellowships, and builder ecosystems across Europe, the US, and MENA.
-
-Coming from Eastern Europe shaped my relationship with grit, resourcefulness, and perseverance, and made me comfortable operating outside obvious institutions. That is mostly an advantage. The ideas worth working on are rarely the ones with an established venue, and the people who find them early are usually the ones who did not need permission to start.
-
-What holds my attention: AI agents, financial infrastructure, coordination systems, and tools that expand human agency. I build with intellectual grounding first, because a product with a thesis behind it can survive being early, and one without a thesis can only survive being right.
-
-<br />
-
 <div align="center">
-
-**Building the orchestration layer for the agentic economy.**
 
 [generalliquidity.com](https://generalliquidity.com) · [@tiberiu_toca](https://x.com/tiberiu_toca) · [LinkedIn](https://www.linkedin.com/in/tiberiu-aurelian-toca-80b88a200/)
 
