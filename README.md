@@ -22,7 +22,7 @@ An applied research lab for the machine economy
 
 ## About
 
-I am a world builder. Infrastructure is never neutral: anything that decides who may act, and on what terms, is a small constitution, and I would rather author one deliberately than inherit one by accident. I am Romanian, and I find out what I actually believe by building it.
+I build worlds. Technologists are the new kings, and the first duty of anyone holding that kind of power is philosophical rather than technical: every system that decides who may act is a small constitution, and it will be written by someone, deliberately or by accident. So I read as seriously as I ship, and treat curiosity as a method rather than a pastime. Wizard and warrior in equal measure, I am here to bend reality toward the version worth inhabiting, and to take whatever ground that requires.
 
 **⚜️ Disposition**
 
@@ -39,7 +39,7 @@ I am a world builder. Infrastructure is never neutral: anything that decides who
 - **Serial hacker house resident**, [Augmentation Lab](https://augmentationlab.org/) · [Arrayah City](https://arrayah.city/) · [The Residency](https://www.livetheresidency.com/) · [Harvard St](https://harvardst.co/)
 - Building across Europe, the US, and MENA
 
-Coming from Eastern Europe shaped my relationship with grit, resourcefulness, and perseverance, and left me comfortable operating outside obvious institutions. That is mostly an advantage. The work worth doing rarely has an established venue, and the people who find it early are usually the ones who did not wait to be invited. Rooms full of people building things nobody asked for yet are the closest thing I have found to a native habitat.
+I am Romanian, and coming from Eastern Europe shaped my relationship with grit, resourcefulness, and perseverance, and left me comfortable operating outside obvious institutions. That is mostly an advantage. The work worth doing rarely has an established venue, and the people who find it early are usually the ones who did not wait to be invited. Rooms full of people building things nobody asked for yet are the closest thing I have found to a native habitat.
 
 <br />
 
