@@ -2,6 +2,10 @@
 
 # T I B E R I U &nbsp;&nbsp; T O C A 
 
+### 👑 &nbsp; Tiberius Aurelius Ⅰ &nbsp; 👑
+
+🏛️ &nbsp; ⚜️ &nbsp; 🦅
+
 **Founder, [General Liquidity](https://generalliquidity.com)**
 
 An applied research lab for the machine economy
@@ -20,7 +24,7 @@ An applied research lab for the machine economy
 
 I am Romanian, and I build the machine economy's missing layer out of [General Liquidity](https://generalliquidity.com).
 
-**Disposition**
+**⚜️ Disposition**
 
 - Philosopher-Builder
 - Soulful Aristocrat
@@ -28,7 +32,7 @@ I am Romanian, and I build the machine economy's missing layer out of [General L
 - Techno-Vitalist
 - Systems Thinker
 
-**Education, fellowships, and residencies**
+**🏛️ Education, fellowships, and residencies**
 
 - **MEng, Computer Science with Innovation**, [University of Bristol](https://www.bristol.ac.uk/)
 - **Fellow**, [Oxford Cambridge Fellowship](https://joinocf.com) · [Brightdale](https://www.brightdale.co/)
@@ -50,6 +54,18 @@ Where I part company is on what follows. The essay treats the question of who di
 So the thing I am building is the **API for the machine economy**: one governed surface over payment, commerce, identity, and provenance, where an agent states an intent and a mandate decides whether it becomes an action. The agent never holds the settle primitive. Every enforcement decision is falsifiable after the fact, by anyone, offline.
 
 Everything below is that thesis at a different altitude. General Liquidity is the surface. Gordon is what it looks like pointed at capital markets, where the consequences arrive fastest and the excuses are cheapest.
+
+<br />
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Contribution graph" width="880" />
+</picture>
+
+</div>
 
 <br />
 
@@ -82,15 +98,6 @@ $ npm install -g @general-liquidity/gordon
 
 <br />
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Contribution graph" width="880" />
-</picture>
-
-</div>
 
 <br />
 
