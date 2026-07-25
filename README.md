@@ -18,52 +18,28 @@ Romanian solo founder · [General Liquidity](https://generalliquidity.com), an a
 
 ## The thesis
 
-In markets, AI does not have a capability problem. It has an authority problem.
+The economy is being handed to actors that are not people.
 
-A model that reads a chart fluently still cannot be trusted to size a position, respect a limit, or recover from a failed order. In most software, being slightly wrong is survivable. Where money moves, being *nearly* right is just being wrong with a settlement attached. The scarce thing was never intelligence. It is the layer that decides which intentions become actions: permissions, approvals, durable memory, disciplined execution, and legible failure.
+[Fabric's essay on the machine economy](https://www.fabric.vc/writing/the-machine-economy) gets the shape right: compute, models, and programmable money converging until agents become economic actors rather than tools, transacting at machine speed against counterparties they have never met. Its sharpest observation is that once capability is abundant, "the scarce and therefore precious resource is no longer capability, it becomes direction."
 
-That layer is missing, and it is what I build. Not smarter agents. The substrate that lets a human safely delegate consequence to one.
+Where I part company is on what follows. The essay treats the question of who directs the flywheel as political and philosophical rather than an engineering one. It is both, and the engineering half is the part nobody is building. Direction has to live somewhere concrete: delegated, bounded, priced, and refusable. In practice that somewhere is a single API call, made by an agent, at machine speed, with no human watching it happen. Governance that cannot be enforced inside that call is not governance. It is a policy document.
 
-I hold a long-term thesis about how humans, capital, and agents will interact in the next economy, and I am building General Liquidity from that thesis rather than toward a market that already exists.
+So the thing I am building is the **API for the machine economy**: one governed surface over payment, commerce, identity, and provenance, where an agent states an intent and a mandate decides whether it becomes an action. The agent never holds the settle primitive. Every enforcement decision is falsifiable after the fact, by anyone, offline.
 
-```mermaid
-flowchart LR
-    H["<b>Human</b><br/>intent · mandate · limits"]
-    A["<b>Agent</b><br/>reads · reasons · proposes"]
-    G{"<b>Harness</b><br/>deny-first gates"}
-    C["<b>Capital</b><br/>venues · settlement"]
-
-    H -->|states intent| A
-    A -->|drafts a plan| G
-    H -->|approves, or does not| G
-    G -->|cleared| C
-    G -.->|blocked, with a reason| A
-    C -->|outcome · audit trail| H
-
-    classDef human fill:#eef4ff,stroke:#3f6bb0,stroke-width:1px,color:#14213d
-    classDef agent fill:#f2eeff,stroke:#7b5ec7,stroke-width:1px,color:#241a3d
-    classDef gate  fill:#eafbf0,stroke:#22c55e,stroke-width:2px,color:#0d2818
-    classDef cap   fill:#fff4ea,stroke:#c08532,stroke-width:1px,color:#2d1c08
-    class H human
-    class A agent
-    class G gate
-    class C cap
-```
-
-**The model proposes. The harness disposes.** Every product below is a version of that sentence, applied to a domain where being wrong is expensive.
+Everything below is that thesis at a different altitude. General Liquidity is the surface. Gordon is what it looks like pointed at capital markets, where the consequences arrive fastest and the excuses are cheapest.
 
 <br />
 
 ## General Liquidity
 
-Trading is the first vertical, not the mission. The lab ships an applied flagship and the open research infrastructure around it.
+An applied product and research lab for the machine economy. Capital markets are the first vertical, not the mission.
 
 | | | |
 |:--|:--|:--|
+| **[The API](https://github.com/general-liquidity/general-liquidity-openapi)** | One governed surface over payment, commerce, identity, and provenance, with a mandate and a deny-first gate in the call path that agents cannot route around. SDKs in [TypeScript](https://github.com/general-liquidity/general-liquidity-typescript), [Python](https://github.com/general-liquidity/general-liquidity-python), [Rust](https://github.com/general-liquidity/general-liquidity-rust), [Go](https://github.com/general-liquidity/general-liquidity-go), plus an [MCP server](https://github.com/general-liquidity/general-liquidity-mcp) and a [CLI](https://github.com/general-liquidity/general-liquidity-cli). | `OpenAPI 3.1` |
 | **[Gordon](https://github.com/general-liquidity/gordon)** | A plan-first AI trading agent bringing institutional-grade discipline to retail traders. You state intent in plain language, it drafts a structured plan, you approve it, and a deny-first risk harness gates every order before it reaches a venue. | `TypeScript` `MIT` |
 | **[SharpeBench](https://github.com/general-liquidity/sharpebench)** | A luck-robust benchmark for AI trading agents. Ranks risk-adjusted skill that survives deflation, not raw return. Ships as a [CLI](https://www.npmjs.com/package/@general-liquidity/sharpebench) and an [MCP server](https://www.npmjs.com/package/@general-liquidity/sharpebench-mcp). | `Rust` `npm` |
 | **[SharpeArena](https://github.com/general-liquidity/sharpearena)** | A leak-free, point-in-time reinforcement-learning environment for trading agents, and the language-agnostic contract they speak. | `Python` |
-| **[The API](https://github.com/general-liquidity/general-liquidity-openapi)** | One surface over payment, commerce, identity, and provenance, governed by a spend gate agents cannot bypass. SDKs in [TypeScript](https://github.com/general-liquidity/general-liquidity-typescript), [Python](https://github.com/general-liquidity/general-liquidity-python), [Rust](https://github.com/general-liquidity/general-liquidity-rust), [Go](https://github.com/general-liquidity/general-liquidity-go), plus an [MCP server](https://github.com/general-liquidity/general-liquidity-mcp) and a [CLI](https://github.com/general-liquidity/general-liquidity-cli). | `OpenAPI 3.1` |
 
 ```console
 $ npm install -g @general-liquidity/gordon
@@ -73,7 +49,7 @@ $ npm install -g @general-liquidity/gordon
 
 ## Verifier-first harnesses
 
-The same architecture, carried into other domains where a confident wrong answer is worse than no answer. Each one puts a machine-checkable verifier between the model and the artifact.
+**The model proposes. The harness disposes.** The same architecture carried into other domains where a confident wrong answer is worse than no answer. Each one puts a machine-checkable verifier between the model and the artifact, so the thing you are handed has already survived a check that does not care how fluent it sounded.
 
 | | | |
 |:--|:--|:--|
