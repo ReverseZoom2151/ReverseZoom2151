@@ -22,7 +22,7 @@ An applied research lab for the machine economy
 
 ## About
 
-I am Romanian, and I build the machine economy's missing layer out of [General Liquidity](https://generalliquidity.com).
+I am a world builder. Infrastructure is never neutral: anything that decides who may act, and on what terms, is a small constitution, and I would rather author one deliberately than inherit one by accident. I am Romanian, and I find out what I actually believe by building it.
 
 **⚜️ Disposition**
 
