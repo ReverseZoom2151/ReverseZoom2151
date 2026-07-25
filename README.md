@@ -16,7 +16,7 @@ An applied research lab for the machine economy
 
 <br />
 
-> Motion and action are linear. Introspection compounds, and on the rare day it goes exponential.
+> Motion and action are linear. Introspection is superlinear, and sometimes exponential.
 
 <br />
 
