@@ -22,9 +22,12 @@ I am Romanian, and I build the machine economy's missing layer out of [General L
 
 **Disposition**
 
-- Philosopher-builder and contrarian at heart
+- Philosopher-builder
 - Soulful aristocrat
-- Part technologist, part systems thinker, part obsessive founder
+- Contrarian
+- Technologist
+- Systems thinker
+- Obsessive founder
 
 **Education, fellowships, and residencies**
 
