@@ -1,0 +1,35 @@
+name: Contribution graph
+
+# Regenerates the 3D contribution graph and commits it, so the profile renders a
+# local asset instead of hitting a third-party service on every page view.
+
+on:
+  schedule:
+    - cron: "41 5 * * *" # daily, off the hour to avoid the Actions rush
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/profile-3d.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: yoshi389111/github-profile-3d-contrib@0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit the regenerated graph
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-3d-contrib
+          git diff --staged --quiet || git commit -m "chore: refresh contribution graph"
+          git push
