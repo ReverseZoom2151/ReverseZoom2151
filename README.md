@@ -39,7 +39,7 @@ I build worlds. Technologists are the new kings, and the first duty of anyone ho
 - **Serial hacker house resident**, [Augmentation Lab](https://augmentationlab.org/) · [Arrayah City](https://arrayah.city/) · [The Residency](https://www.livetheresidency.com/) · [Harvard St](https://harvardst.co/)
 - Building across Europe, the US, and MENA
 
-I am Romanian, and coming from Eastern Europe shaped my relationship with grit, resourcefulness, and perseverance, and left me comfortable operating outside obvious institutions. That is mostly an advantage. The work worth doing rarely has an established venue, and the people who find it early are usually the ones who did not wait to be invited. Rooms full of people building things nobody asked for yet are the closest thing I have found to a native habitat.
+I am originally from Romania, and coming from Eastern Europe shaped my relationship with grit, resourcefulness, and perseverance, and left me comfortable operating outside obvious institutions. That is mostly an advantage. The work worth doing rarely has an established venue, and the people who find it early are usually the ones who did not wait to be invited. Rooms full of people building things nobody asked for yet are the closest thing I have found to a native habitat.
 
 <br />
 
