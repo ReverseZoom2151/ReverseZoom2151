@@ -18,13 +18,22 @@ An applied research lab for the machine economy
 
 ## About
 
-I am a philosopher-builder, a soulful aristocrat, and a contrarian at heart: part technologist, part systems thinker, part obsessive founder. I read Computer Science with Innovation at the [University of Bristol](https://www.bristol.ac.uk/) (MEng), and I am Romanian, which accounts for most of the rest.
+I am Romanian, and I build the machine economy's missing layer out of [General Liquidity](https://generalliquidity.com).
 
-Coming from Eastern Europe shaped my relationship with grit, resourcefulness, and perseverance, and left me comfortable operating outside obvious institutions. That is mostly an advantage. The work worth doing rarely has an established venue, and the people who find it early are usually the ones who did not wait to be invited.
+**Disposition**
 
-Since Bristol I have been a serial hacker house resident, building across Europe, the US, and MENA: [Augmentation Lab](https://augmentationlab.org/), [Arrayah City](https://arrayah.city/), [The Residency](https://www.livetheresidency.com/), and [Harvard St](https://harvardst.co/), alongside fellowships at the [Oxford Cambridge Fellowship](https://joinocf.com) and [Brightdale](https://www.brightdale.co/). Rooms full of people building things nobody asked for yet are the closest thing I have found to a native habitat.
+- Philosopher-builder and contrarian at heart
+- Soulful aristocrat
+- Part technologist, part systems thinker, part obsessive founder
 
-My curiosity is considerably wider than my company. I have written a path tracer and a photon mapper from scratch, a proof-assistant harness for mathematics, a text-to-CAD agent, pure functional models in Haskell, a neural game engine, and firmware for a robot that steers on whichever sensor reading has the lower variance. Away from the keyboard the interests that keep recurring are market microstructure, mechanism and market design, the philosophy and history of science, complex systems, and the long argument about how coordination happens between parties who cannot verify each other. The through-line is not a domain. It is a preference for building things whose correctness someone else can check, and a suspicion of anything asking to be taken on faith.
+**Education, fellowships, and residencies**
+
+- **MEng, Computer Science with Innovation**, [University of Bristol](https://www.bristol.ac.uk/)
+- **Fellow**, [Oxford Cambridge Fellowship](https://joinocf.com) · [Brightdale](https://www.brightdale.co/)
+- **Serial hacker house resident**, [Augmentation Lab](https://augmentationlab.org/) · [Arrayah City](https://arrayah.city/) · [The Residency](https://www.livetheresidency.com/) · [Harvard St](https://harvardst.co/)
+- Building across Europe, the US, and MENA
+
+Coming from Eastern Europe shaped my relationship with grit, resourcefulness, and perseverance, and left me comfortable operating outside obvious institutions. That is mostly an advantage. The work worth doing rarely has an established venue, and the people who find it early are usually the ones who did not wait to be invited. Rooms full of people building things nobody asked for yet are the closest thing I have found to a native habitat.
 
 <br />
 
