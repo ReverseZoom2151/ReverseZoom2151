@@ -77,9 +77,9 @@ The same architecture, carried into other domains where a confident wrong answer
 
 | | | |
 |:--|:--|:--|
-| **[theoremata](https://github.com/ReverseZoom2151/theoremata)** | The AI mathematician that breaks conjectures before proving them, discharges every step inside a proof assistant, and hands you a proof you can check yourself. | `Rust` |
-| **[harnesscad](https://github.com/ReverseZoom2151/harnesscad)** | The verifier-first text-to-CAD agent harness, with a computer-using agent for 3D CAD generation in real GUIs, and Parts-Driven Development. | `Python` |
-| **[harnessbim](https://github.com/ReverseZoom2151/harnessbim)** | The first fully-native, open-source text-to-BIM agentic harness: natural language to standards-compliant IFC, with no proprietary authoring tool in the loop. | `Python` |
+| **[Theoremata](https://github.com/ReverseZoom2151/theoremata)** | The AI mathematician that breaks conjectures before proving them, discharges every step inside a proof assistant, and hands you a proof you can check yourself. | `Rust` |
+| **[HarnessCAD](https://github.com/ReverseZoom2151/harnesscad)** | The verifier-first text-to-CAD agent harness, with a computer-using agent for 3D CAD generation in real GUIs, and Parts-Driven Development. | `Python` |
+| **[HarnessBIM](https://github.com/ReverseZoom2151/harnessbim)** | The first fully-native, open-source text-to-BIM agentic harness: natural language to standards-compliant IFC, with no proprietary authoring tool in the loop. | `Python` |
 
 <br />
 
