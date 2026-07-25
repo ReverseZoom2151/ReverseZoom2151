@@ -16,7 +16,7 @@ An applied research lab for the machine economy
 
 <br />
 
-> Taste is a form of engineering. It decides what you refuse to build.
+> Motion and action are linear. Introspection compounds, and on the rare day it goes exponential.
 
 <br />
 
